@@ -1,0 +1,31 @@
+Matias Cuervo :
+Nombre de host:                            DESKTOP-7SSNEAH
+Nombre del sistema operativo:              Microsoft Windows 10 Pro for Workstations
+Versión del sistema operativo:             10.0.19045 N/D Compilación 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              Matias
+Organización registrada:
+Id. del producto:                          00391-80000-00001-AA725
+Fecha de instalación original:             11/09/2023, 5:10:03
+Tiempo de arranque del sistema:            07/11/2024, 16:35:02
+Fabricante del sistema:                    System manufacturer
+Modelo el sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3901 Mhz
+Versión del BIOS:                          American Megatrends Inc. 6042, 28/04/2022
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume3
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es;Español (tradicional)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          12.082 MB
+Memoria física disponible:                 5.502 MB
+Memoria virtual: tamaño máximo:            24.882 MB
+Memoria virtual: disponible:               14.808 MB
+Memoria virtual: en uso:                   10.074 MB
+Ubicación(es) de archivo de paginación:    D:\pagefile.sys
+Dominio:                                   WORKGROUP
