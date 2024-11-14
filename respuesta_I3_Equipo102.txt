@@ -20,4 +20,9 @@ f-
   9  git push origin -u Beta
 
 
-g-
+g-  git checkout Beta
+    git add .
+    git status
+    git add .
+    git commit -m "commit alfa"
+    git push origin Beta
