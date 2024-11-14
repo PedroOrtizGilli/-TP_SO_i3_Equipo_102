@@ -1,0 +1,12 @@
+a- El main queda fusionado con todos los archivos y cambios de los archivos hechos en las 
+ramas creadas.
+b- Si, pudo ver todos los cambios.
+c- 1-git checkout main
+   2-git merge gamma
+   3-git add .
+   4-git commit -m
+   5-git push origin main
+d-
+e-
+f-
+g-
