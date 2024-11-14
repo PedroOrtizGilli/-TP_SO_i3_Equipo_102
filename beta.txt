@@ -1,35 +1,67 @@
-Pedro Alejandro Ortiz Gilli
-Configuraci贸n IP de Windows
+Nombre y apellido: Andres Sanchez Albertti
+Hora: 10:44
+Configuraci IP de Windows
 
 
 Adaptador de Ethernet Ethernet:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
+   Sufijo DNS especico para la conexi. . : 
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::daec:dad3:e4ec:9718%15
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.56.1
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
-   Puerta de enlace predeterminada . . . . . :
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::63a0:77e9:561b:582f%22
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
 
-Adaptador de LAN inal谩mbrica Conexi贸n de 谩rea local* 9:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
-
-Adaptador de LAN inal谩mbrica Conexi贸n de 谩rea local* 10:
+Adaptador desconocido OpenVPN Data Channel Offload for Surfshark:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS espec铆fico para la conexi贸n. . :
+   Sufijo DNS especico para la conexi. . : 
 
-Adaptador de LAN inal谩mbrica Wi-Fi:
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 9:
 
-   Sufijo DNS espec铆fico para la conexi贸n. . : fibertel.com.ar
-   V铆nculo: direcci贸n IPv6 local. . . : fe80::24a7:e107:7ff4:2024%8
-   Direcci贸n IPv4. . . . . . . . . . . . . . : 192.168.0.127
-   M谩scara de subred . . . . . . . . . . . . : 255.255.255.0
-   Puerta de enlace predeterminada . . . . . : 192.168.0.1
-10:36
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::c3e9:3f01:2608:b06a%12
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.154.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::dc11:2f80:5ed:6616%20
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.242.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal爉brica Wi-Fi:
+
+   Sufijo DNS especico para la conexi. . : home
+   Direcci IPv6 . . . . . . . . . . : 2800:810:4f6:7f:4402:af9e:523a:af96
+   Direcci IPv6 . . . . . . . . . . : 2800:810:4f6:7f:442c:9711:a1af:7bc7
+   Direcci IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:f44:c3c5:d6e1:6ba9
+   Direcci IPv6 temporal. . . . . . : 2800:810:4f6:7f:18af:8d90:6449:9574
+   Direcci IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:18af:8d90:6449:9574
+   Vculo: direcci IPv6 local. . . : fe80::c1b5:d6e9:9b8f:2ce7%6
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.0.123
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2cb:51ff:fe5e:9d63%6
+                                       192.168.0.1
+
+Adaptador de Ethernet Conexi de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
