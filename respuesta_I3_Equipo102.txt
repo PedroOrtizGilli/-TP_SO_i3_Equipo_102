@@ -6,7 +6,18 @@ c- 1-git checkout main
    3-git add .
    4-git commit -m
    5-git push origin main.
-d-
-e-
+d- Sí, quedan con datos actualizados 
+e- No tuvimos problemas al hacer el main 
 f-
+  1  git checkout beta
+  2  nano beta.txt
+  3  ipconfig > beta.txt
+  4  nano beta.txt
+  5  nano beta.txt
+  6  git add .
+  7  git status
+  8  git commit -m "Archivo beta.txt modificado"
+  9  git push origin -u Beta
+
+
 g-
